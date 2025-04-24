@@ -26,8 +26,8 @@ It provides job suggestions, visa advice, and learning recommendations based on 
 
 ## 🖥 Try It Yourself
 
-**👉 [Launch the chatbot here](https://your-streamlit-url.streamlit.app)**  
-*(replace with your actual deployed link)*
+**👉 [Launch the chatbot here](https://pathfinder-b3ewdqydezbtr3cmqqh5rl.streamlit.app/)**  
+
 
 ---
 
