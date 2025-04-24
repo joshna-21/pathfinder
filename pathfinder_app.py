@@ -16,7 +16,7 @@ with st.sidebar:
     """)
 
 st.subheader("🌍 Select Your Target Country")
-country = st.selectbox("Choose a country you're interested in:", ["UK", "Canada", "Germany"])
+country = st.selectbox("Choose a country you're interested in:", ["UK", "Canada", "Germany", "USA", "Australia", "New Zealand", "UAE", "France", "Netherlands"])
 
 st.subheader("🛠️ Select Your Skills")
 skills = st.multiselect(
