@@ -1,0 +1,6 @@
+Role,Country,Required_Skills,Avg_Salary,Visa_Type,Migration_Friendliness,Course_Recommendation
+Data Analyst,UK,"SQL, Power BI, Excel","£32,000","Graduate Visa, Skilled Worker",High,https://www.freecodecamp.org/learn/data-analysis-with-python/
+Backend Developer,Canada,"Python, Django, Docker","$68,000","Express Entry, Global Talent Stream",High,https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+Nurse,Germany,"Nursing license, German A2, Patient care","€45,000",Blue Card,Medium,https://www.coursera.org/learn/fundamentals-of-geriatric-care
+Mechanical Engineer,UK,"CAD, Manufacturing, Quality Control","£38,000",Skilled Worker,Medium,https://www.udemy.com/course/autocad-mechanical-design/
+UX Designer,Canada,"Figma, UX Research, HTML/CSS","$62,000",Express Entry,High,https://www.coursera.org/learn/user-experience-design
